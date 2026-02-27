@@ -1,9 +1,13 @@
 {
-  "name": "",
-  "version": "",
+  "name": "functions-quickstart-javascript",
+  "version": "1.0.0",
   "description": "",
-  "scripts" : {
+  "main": "src/functions/*.js",
+  "scripts": {
     "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
   },
   "author": ""
 }
